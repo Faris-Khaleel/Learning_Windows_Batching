@@ -17,7 +17,7 @@ start http://www.google.com
 pause
 
 echo open a file
-start 1-Lesson_One.bat
+start 1-Lesson_One_Basics.bat
 
 pause
 
